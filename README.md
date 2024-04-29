@@ -12,3 +12,4 @@
 - ⚡ Fun fact: I've been shaving my head for 15 years and it still bothers me that I'm going bald! ~ HA!
 [![Marshallsbest's GitHub | Stats](https://stats.quine.sh/Marshallsbest/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Marshallsbest)
 [![Marshallsbest's GitHub | Languages Over Time](https://stats.quine.sh/Marshallsbest/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Marshallsbest)
+[![Marshallsbest's GitHub | Topics Over Time](https://stats.quine.sh/Marshallsbest/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Marshallsbest)
